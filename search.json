@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "pkg/website/source/index.html",
-    "href": "pkg/website/source/index.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Yuqing (Claire) Wang",
     "section": "",
     "text": "I am a fourth-year PhD candidate in Economics at the University of Michigan. My research interests are in behavioral, experimental, and labor economics, with a focus on gender.\nIn my current work, I study how beliefs and social norms shape women’s choices in the marriage market and the labor market. For example, I ask whether men penalize a woman’s career when choosing a partner, and whether women know what men penalize.\nMy advisor is Christine Exley. Before the PhD, I earned a BS in Economics from the University of Michigan."
   },
   {
-    "objectID": "pkg/website/source/index.html#research-interests",
-    "href": "pkg/website/source/index.html#research-interests",
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
     "title": "Yuqing (Claire) Wang",
     "section": "Research interests",
     "text": "Research interests\nBehavioral economics · Experimental economics · Labor economics · Gender"
-  },
-  {
-    "objectID": "pkg/website/source/research.html",
-    "href": "pkg/website/source/research.html",
-    "title": "Research",
-    "section": "",
-    "text": "The Believed Ambition Penalty in the Marriage Market\nDo men penalize a woman’s career when they choose a partner, and do women know what men penalize? I run incentivized partner-choice experiments in which choices are used to recommend real matches. I separate a woman’s income from her time, and her job today from her work after children.\n\n\nEqualizing or Polarizing? Generative AI and Research Productivity in Economics\n(with Tianyu Jiang)\n\n\nEmpire by Design: American Social Engineering and Philippine Development\n(with Mika Inoue, Dean Yang, and JC Punongbayan)\n\n\nMotivated Reasoning and Gender Antagonism\nThird-year paper\nHow much do men and women misjudge the hostility of the other gender, and do people avoid information that would correct these beliefs? I study this with incentivized online surveys."
-  },
-  {
-    "objectID": "pkg/website/source/research.html#research-in-progress",
-    "href": "pkg/website/source/research.html#research-in-progress",
-    "title": "Research",
-    "section": "",
-    "text": "The Believed Ambition Penalty in the Marriage Market\nDo men penalize a woman’s career when they choose a partner, and do women know what men penalize? I run incentivized partner-choice experiments in which choices are used to recommend real matches. I separate a woman’s income from her time, and her job today from her work after children.\n\n\nEqualizing or Polarizing? Generative AI and Research Productivity in Economics\n(with Tianyu Jiang)\n\n\nEmpire by Design: American Social Engineering and Philippine Development\n(with Mika Inoue, Dean Yang, and JC Punongbayan)\n\n\nMotivated Reasoning and Gender Antagonism\nThird-year paper\nHow much do men and women misjudge the hostility of the other gender, and do people avoid information that would correct these beliefs? I study this with incentivized online surveys."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Econ 401: Intermediate Microeconomic Theory (Fall 2026)"
-  },
-  {
-    "objectID": "teaching.html#graduate-student-instructor-university-of-michigan",
-    "href": "teaching.html#graduate-student-instructor-university-of-michigan",
-    "title": "Teaching",
-    "section": "",
-    "text": "Econ 401: Intermediate Microeconomic Theory (Fall 2026)"
   },
   {
     "objectID": "research.html",
@@ -63,31 +35,17 @@
     "text": "Research in progress\n\nThe Believed Ambition Penalty in the Marriage Market\nDo men penalize a woman’s career when they choose a partner, and do women know what men penalize? I run incentivized partner-choice experiments in which choices are used to recommend real matches. I separate a woman’s income from her time, and her job today from her work after children.\n\n\nEmpire by Design: American Social Engineering and Philippine Development\n(with Mika Inoue, Dean Yang, and JC Punongbayan)\n\n\nMotivated Reasoning and Gender Antagonism\nThird-year paper\nHow much do men and women misjudge the hostility of the other gender, and do people avoid information that would correct these beliefs? I study this with incentivized online surveys."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Yuqing (Claire) Wang",
-    "section": "",
-    "text": "I am a fourth-year PhD candidate in Economics at the University of Michigan. My research interests are in behavioral, experimental, and labor economics, with a focus on gender.\nIn my current work, I study how beliefs and social norms shape women’s choices in the marriage market and the labor market. For example, I ask whether men penalize a woman’s career when choosing a partner, and whether women know what men penalize.\nMy advisor is Christine Exley. Before the PhD, I earned a BS in Economics from the University of Michigan."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Yuqing (Claire) Wang",
-    "section": "Research interests",
-    "text": "Research interests\nBehavioral economics · Experimental economics · Labor economics · Gender"
-  },
-  {
-    "objectID": "pkg/website/source/teaching.html",
-    "href": "pkg/website/source/teaching.html",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Econ 401: Intermediate Microeconomic Theory (Fall 2026)"
+    "text": "Intermediate Microeconomics (Econ 401): Fall 2026\nIntermediate Macroeconomics (Econ 402)\nPrinciples of Economics II: Macroeconomics (Econ 102)"
   },
   {
-    "objectID": "pkg/website/source/teaching.html#graduate-student-instructor-university-of-michigan",
-    "href": "pkg/website/source/teaching.html#graduate-student-instructor-university-of-michigan",
+    "objectID": "teaching.html#graduate-student-instructor-university-of-michigan",
+    "href": "teaching.html#graduate-student-instructor-university-of-michigan",
     "title": "Teaching",
     "section": "",
-    "text": "Econ 401: Intermediate Microeconomic Theory (Fall 2026)"
+    "text": "Intermediate Microeconomics (Econ 401): Fall 2026\nIntermediate Macroeconomics (Econ 402)\nPrinciples of Economics II: Macroeconomics (Econ 102)"
   }
 ]

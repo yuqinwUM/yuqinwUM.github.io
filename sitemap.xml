@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yuqinwum.github.io/pkg/website/source/index.html</loc>
-    <lastmod>2026-11-03T20:52:35.874Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yuqinwum.github.io/pkg/website/source/research.html</loc>
-    <lastmod>2026-11-03T20:52:35.874Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yuqinwum.github.io/teaching.html</loc>
-    <lastmod>2026-11-03T20:45:31.990Z</lastmod>
+    <loc>https://yuqinwum.github.io/index.html</loc>
+    <lastmod>2026-11-03T21:07:37.610Z</lastmod>
   </url>
   <url>
     <loc>https://yuqinwum.github.io/research.html</loc>
-    <lastmod>2026-11-03T20:56:44.965Z</lastmod>
+    <lastmod>2026-11-03T21:06:59.109Z</lastmod>
   </url>
   <url>
-    <loc>https://yuqinwum.github.io/index.html</loc>
-    <lastmod>2026-11-03T20:52:21.624Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yuqinwum.github.io/pkg/website/source/teaching.html</loc>
-    <lastmod>2026-11-03T20:52:35.874Z</lastmod>
+    <loc>https://yuqinwum.github.io/teaching.html</loc>
+    <lastmod>2026-11-03T21:06:41.622Z</lastmod>
   </url>
 </urlset>
