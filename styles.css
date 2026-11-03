@@ -6,3 +6,6 @@ h2 { margin-top: 1.6rem; }
 .project-title a { text-decoration: none; }
 .project-title a:hover { text-decoration: underline; }
 .project-title a { font-weight: 600; }
+/* more breathing room on the about page */
+.about-entity { padding-right: 2.5rem; }
+.about-contents { padding-left: 2.5rem; }
